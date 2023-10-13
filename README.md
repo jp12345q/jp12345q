@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Web & Game Development**
 
-- ⚡ Fun fact **I like Cooking Codes**
+- ⚡ Fun fact **I like Cooking Code**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
