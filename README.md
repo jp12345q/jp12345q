@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm John Paul Verdad</h1>
 <h3 align="center">Embarking on My Programming and Game Development Journey</h3>
-<img align="right" alt="Coding" with="200" src="https://4.bp.blogspot.com/-WdJllxygPaw/WcHPnFUHRBI/AAAAAAAA77E/asY6yJdHqBoGac6YQUSfcPjNT37JHbdqgCKgBGAs/s1600/Omake%2BGif%2BAnime%2B-%2BNew%2BGame%2521%2521%2B-%2BEpisode%2B11%2B-%2BNene%2BPoints%2Bat%2BNaru%2527s%2BBad%2BCode.gif">
+<img align="right" alt="Coding" with="100" src="https://4.bp.blogspot.com/-WdJllxygPaw/WcHPnFUHRBI/AAAAAAAA77E/asY6yJdHqBoGac6YQUSfcPjNT37JHbdqgCKgBGAs/s1600/Omake%2BGif%2BAnime%2B-%2BNew%2BGame%2521%2521%2B-%2BEpisode%2B11%2B-%2BNene%2BPoints%2Bat%2BNaru%2527s%2BBad%2BCode.gif">
 
 - 🌱 I’m currently learning **Web & Game Development**
 
