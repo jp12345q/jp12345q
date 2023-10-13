@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm John Paul Verdad</h1>
 <h3 align="center">Embarking on My Programming and Game Development Journey</h3>
-<img align="right" alt="Coding" with="400" src="[https://i.gifer.com/6M8R.gif](https://i.pinimg.com/originals/2e/61/44/2e61441e3daca5efa2fceaeda4745b93.gif](https://schoolofgamedesign.com/wp-content/uploads/2015/12/pixel_acade.gif)">
+<img align="right" alt="Coding" with="400" src="https://giphy.com/gifs/metadigital-meta-web-design-digital-S3thLnRWEpRwq6iDIO">
 
 - 🌱 I’m currently learning **Web & Game Development**
 
