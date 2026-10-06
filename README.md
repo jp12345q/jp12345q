@@ -84,15 +84,10 @@
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img 
-    width="48%" 
-    src="https://github-readme-stats.vercel.app/api?username=jp12345q&show_icons=true&theme=github_dark&hide_border=true"
+  <img
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api?username=jp12345q&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github"
     alt="John Paul's GitHub Stats"
-  />
-  <img 
-    width="48%" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jp12345q&layout=compact&theme=github_dark&hide_border=true"
-    alt="John Paul's Most Used Languages"
   />
 </p>
 
@@ -104,17 +99,6 @@
   <img 
     src="https://streak-stats.demolab.com/?user=jp12345q&theme=github-dark-blue&hide_border=true"
     alt="GitHub Streak"
-  />
-</p>
-
----
-
-### 📈 Contribution Activity
-
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=jp12345q&theme=github-compact&hide_border=true"
-    alt="GitHub Contribution Graph"
   />
 </p>
 
